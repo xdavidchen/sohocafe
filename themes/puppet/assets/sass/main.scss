@@ -935,7 +935,7 @@ img::-moz-selection {
   &.tags-sup {
     a,
     .tag {
-      padding: 0 12px 0 12px;
+      padding: 0 10px 0 12px;
     }
   }
   a,
@@ -952,7 +952,7 @@ img::-moz-selection {
     margin-bottom: 6px;
     cursor: pointer;
     > sup {
-      margin-left: -3px;
+      margin-left: -2px;
       font-weight: 700;
     }
     &:hover,
@@ -988,6 +988,10 @@ img::-moz-selection {
     margin: 0 2px;
     margin-bottom: 8px;
     background: #f3f5f5;
+    > sup {
+      margin-left: -2px;
+      font-weight: 700;
+    }
     &:hover,
     &:active,
     &.focus {

@@ -32,8 +32,7 @@
 </style>
 <div id='tag_cloud' class="tags tags-sup js-tags">
   <a class="tag-button--all" data-encode="">
-    Show All
-    <sup>{{ len $pages }}</sup>
+    Show All <sup>{{ len $pages }}</sup>
   </a>
 
   {{ range .Site.Taxonomies.tags.ByCount }}
