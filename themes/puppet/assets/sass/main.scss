@@ -935,7 +935,7 @@ img::-moz-selection {
   &.tags-sup {
     a,
     .tag {
-      padding: 0 10px 0 12px;
+      padding: 0 12px 0 12px;
     }
   }
   a,
@@ -952,7 +952,7 @@ img::-moz-selection {
     margin-bottom: 6px;
     cursor: pointer;
     > sup {
-      margin-left: -2px;
+      margin-left: -3px;
       font-weight: 700;
     }
     &:hover,
@@ -962,9 +962,9 @@ img::-moz-selection {
       background-color: rgba(255, 255, 255, 0.4);
       text-decoration: none;
     }
-    // @media only screen and (min-width: 768px) {
-      //margin-right: 5px;
-    // }
+    @media only screen and (min-width: 768px) {
+      margin-right: 5px;
+    }
   }
 }
 
