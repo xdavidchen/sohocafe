@@ -39,7 +39,8 @@
   {{ range .Site.Taxonomies.tags.ByCount }}
 <a data-sort="{{ printf " %04d" (sub (len $pages) .Count) }}" data-encode="{{ .Page.Title | lower | urlquery }}"
   class="tag-button tag-color__{{ .Count }}" title="{{ .Page.Title }}" rel="{{ .Count }}">
-  {{ .Page.Title }} <sup>{{ .Count }}</sup>
+  {{ .Page.Title }}
+  <sup>{{ .Count }}</sup>
 </a>
 {{ end }}
 </div>
