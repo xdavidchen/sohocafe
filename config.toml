@@ -1,0 +1,142 @@
+baseURL = "http://example.com"
+title = "今日工室"
+
+theme = "puppet"
+
+copyright = "Copyright &copy; 2023 今日工室"
+paginate = 5
+languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
+
+hasCJKLanguage = true
+enableInlineShortcodes = true
+enableEmoji = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[outputs]
+home = ["HTML", "JSON", "RSS"]
+
+# prevent build failures when using Hugo's template _internal/opengraph.html 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+[markup.highlight]
+noClasses = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNumbersInTable = false
+style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "首頁"
+url = "/"
+weight = -100
+[[menu.main]]
+identifier = "archive"
+name = "所有文章"
+url = "/archive/"
+weight = 10
+#[[menu.main]]
+#identifier = "guide"
+#name = "Guide"
+#url = "/series/themes-guide/"
+#weight = 20
+[[menu.main]]
+identifier = "about"
+name = "關於"
+url = "/about/"
+weight = 50
+#[[menu.main]]
+#identifier = "github"
+#name = "Github"
+#url = "https://github.com/roninro/hugo-theme-puppet/"
+# weight = 100
+
+
+[params]
+author = "今日工室"
+description = "給 SOHO 族的咖啡廳指南"
+keywords = "咖啡廳, soho族, 台灣,"
+img_home = "img/home-bg.jpg"
+img_404 = "img/404-bg.jpg"
+
+useFaviconGenerator = true
+
+custom_js = []
+custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+
+[params.sidebar]
+enable = true
+gravatarEmail = ""
+# Overwritten by your gravatar image if `gravatarEmail` is filled
+avatar = "img/home-bg.jpg"
+bio = "給 SOHO 族的咖啡廳指南"
+
+[params.social]
+# twitter = "johndoe"
+facebook = "johndoe"
+email = "ourEmailAddress"
+# zhihu = "johndoe"
+# weibo = "johndoe"
+# github = "johndoe"
+# gitlab = "johndoe"
+# linkedin = "johndoe"
+rss = true
+[params.social.mastodon]
+# weight = 56
+# icon = "fab fa-mastodon"
+# format = "https://mastodon.social/%v"
+# id = "johndoe"
+# url = ""
+
+[[params.friends]]
+name = "David Chen"
+url = "https://xdavidchen.com/zh-tw/"
+
+[[params.friends]]
+name = "Henry Lin"
+url = "https://gohugo.io"
+
+[[params.friends]]
+name = "Jocelyne Liu"
+url = "https://gohugo.io"
+
+[[params.friends]]
+name = "Tim Kuo"
+url = "https://gohugo.io"
+
+[[params.friends]]
+name = "Zoey Chen"
+# url = "https://gohugo.io"
+
+# See https://giscus.app/
+[params.giscus]
+enable = false ##changed to true when we can afford 11USD per month
+repo = "roninro/hugo-theme-puppet"
+repo_id = "R_kgDOHuvyhw"
+category = "General"
+category_id = "DIC_kwDOHuvyh84CQjDo"
+input_position = "top"
+theme = "light_tritanopia"
+lang = "en"
+
+# social share buttons in articles
+[params.shareButtons]
+  size = "small"
+  networks = ["facebook", "email", "line"]
+  buttonMargin = "2em 0.75em 0 0"
+  icon = "solid"
