@@ -632,6 +632,7 @@ samp {
   .page-heading {
     text-align: center;
     h1 {
+      @include serif;
       margin-top: 0;
       font-size: 50px;
     }
