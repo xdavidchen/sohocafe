@@ -443,6 +443,7 @@ samp {
   z-index: 3;
   @include serif;
   .navbar-brand {
+    @include serif;
     // materialize
     color: white;
     height: 56px;
@@ -659,7 +660,7 @@ samp {
       display: block;
     }
     .subheading {
-      @include sans-serif;
+      @include serif;
       font-size: 17px;
       line-height: 1.4;
       font-weight: normal;
