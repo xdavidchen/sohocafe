@@ -18,7 +18,7 @@
 }
 
 @mixin serif() {
-	font-family: 'Lora', 'Times New Roman', serif;
+	font-family: 'STSongti-TC-Regular', 'Lora', 'Times New Roman', serif;
 }
 
 @mixin sans-serif() {
@@ -37,6 +37,7 @@
         //" Segoe UI",            // Win ^8
 
         // Chinese Fallback
+        "STSongti-TC-Regular",
         "PingFang SC",            // OSX ^10.11 & iOS ^9  苹方（华康信凭黑）
         "Hiragino Sans GB",       // OSX ^10.6            冬青黑体
         "STHeiti",                // OSX <10.6  & iOS <9  华文黑体
