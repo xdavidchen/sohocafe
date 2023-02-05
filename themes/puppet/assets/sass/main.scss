@@ -8,14 +8,25 @@
 // Global Components
 
 @font-face {
-  font-family: "STSongti-TC-Regular, STSongti-TC-Bold";
+  font-family: "STSongti-TC-Regular";
   src: url(/themes/puppet/static/fonts/STSongti-TC-Regular.ttf);
+  font-weight: "regular";
+}
+
+@font-face {
+  font-family: "STSongti-TC-Bold";
   src: url(/themes/puppet/static/fonts/STSongti-TC-Bold.ttf);
+  font-weight: "bold";
+}
+
+@font-face {
+  font-family: "STSongti-TC-Light";
   src: url(/themes/puppet/static/fonts/STSongti-TC-Light.ttf);
+  font-weight: "light";
 }
 
 body {
-  @include sans-serif;
+  font-family: "STSongti-TC-Regular";
   font-size: 16px;
   // Hux mpdify to 16px (Mobile First), and increase to 20px while 768+ width
   color: $gray-dark;
