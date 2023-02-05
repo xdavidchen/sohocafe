@@ -55,7 +55,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "STSongti-TC-Regular";
+  @include serif;
   line-height: 1.1;
   font-weight: bold;
   // @include sans-serif;
