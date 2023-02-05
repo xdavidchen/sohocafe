@@ -935,6 +935,7 @@ img::-moz-selection {
   &.tags-sup {
     a,
     .tag {
+      @include sans-serif;
       padding: 0 10px 0 12px;
     }
   }
