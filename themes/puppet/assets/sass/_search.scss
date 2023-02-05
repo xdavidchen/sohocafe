@@ -47,7 +47,8 @@
   }
 
   #search-input {
-    @include monospace;
+    @include serif;
+    // @include monospace;
 
     // poorman's reset
     border: none;
