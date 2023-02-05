@@ -1,24 +1,35 @@
 [build]
-  publish = "exampleSite/public"
-  command = "hugo -s exampleSite"
-
-[build.environment]
-  HUGO_THEME = "repo"
-  HUGO_THEMESDIR = "/opt/build"
-  HUGO_VERSION = "0.106.0"
+publish = "public"
+command = "hugo --gc --minify"
 
 [context.production.environment]
-  HUGO_BASEURL = "https://hugo-theme-puppet.netlify.app/"
+HUGO_VERSION = "0.106.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.110.0"
+HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo -s exampleSite -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Cache-Control = "public, max-age=600"
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.110.0"
 
-[[headers]]
-  for = "*.(css|js|woff|woff2|ttf|png|jpg|jpeg)"
-  [headers.values]
-    Cache-Control = "public, max-age=2592000"
+[context.branch-deploy]
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.110.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+from = "/npmjs/*"
+to = "/npmjs/"
+status = 200
