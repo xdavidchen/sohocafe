@@ -1,4 +1,4 @@
-baseURL = "http://example.com"
+baseURL = "https://sohocafe.today/"
 title = "今日工室"
 
 theme = "puppet"
