@@ -441,9 +441,8 @@ samp {
   left: 0;
   width: 100%;
   z-index: 3;
-  @include sans-serif;
+  @include serif;
   .navbar-brand {
-    font-family: "STSongti-TC-Regular";
     // materialize
     color: white;
     height: 56px;
@@ -636,8 +635,7 @@ samp {
       font-size: 50px;
     }
     .subheading {
-      // @include sans-serif;
-      font-family: "STSongti-TC-Regular";
+      @include serif;
       font-size: 18px;
       line-height: 1.1;
       display: block;
