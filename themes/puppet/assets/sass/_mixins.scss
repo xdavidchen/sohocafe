@@ -1,19 +1,4 @@
-@font-face {
-    font-family: 'STSongti-TC-Regular';
-    src: url(/themes/puppet/static/fonts/STSongti-TC-Regular.ttf) format('ttf');
-  }
-  
-  @font-face {
-    font-family: 'STSongti-TC-Bold';
-    src: url(/themes/puppet/static/fonts/STSongti-TC-Bold.ttf) format('ttf');
-    font-style: bold;
-  }
-  
-  @font-face {
-    font-family: 'STSongti-TC-Light';
-    src: url(/themes/puppet/static/fonts/STSongti-TC-Light.ttf) format('ttf');
-    font-style: light;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;700&display=swap');
 
 // Mixins
 
@@ -31,11 +16,11 @@
 }
 
 @mixin monospace() {
-    font-family: 'STSongti-TC-Regular', Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
 @mixin serif() {
-	font-family: 'STSongti-TC-Regular', 'Lora', 'Times New Roman', serif;
+	font-family: 'STSongti-TC-Regular', 'Noto Serif TC', 'Lora', 'Times New Roman', serif;
 }
 
 @mixin sans-serif() {
@@ -50,12 +35,14 @@
 
         // English First
         "STSongti-TC-Regular",
+        "Noto Serif TC",
         "Helvetica Neue",         // OSX
         "Arial",                  // Win "Helvetica"
         //" Segoe UI",            // Win ^8
 
         // Chinese Fallback
         "STSongti-TC-Regular",
+        "Noto Serif TC",
         "PingFang SC",            // OSX ^10.11 & iOS ^9  苹方（华康信凭黑）
         "Hiragino Sans GB",       // OSX ^10.6            冬青黑体
         "STHeiti",                // OSX <10.6  & iOS <9  华文黑体
