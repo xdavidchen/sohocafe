@@ -733,8 +733,7 @@ samp {
     }
   }
   > .post-meta {
-    font-family: "STSongti-TC-Regular";
-    // @include serif;
+    @include serif;
     color: $brand-gray;
     font-size: 16px;
     // font-style: italic;
