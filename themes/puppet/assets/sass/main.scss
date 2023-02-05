@@ -935,6 +935,7 @@ img::-moz-selection {
   &.tags-sup {
     a,
     .tag {
+      vertical-align: super;
       padding: 0 10px 0 12px;
     }
   }
