@@ -18,12 +18,9 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ![](archive-bg.jpg)
 
-![](IMG_6674.png)
+<!-- ![](IMG_6674.png) -->
 
----
-
-
-## YouTube Privacy Enhanced Shortcode
+<!-- ## YouTube Privacy Enhanced Shortcode
 
 <br>
 
@@ -37,3 +34,4 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 ---
 
 ## Vimeo Simple Shortcode
+-->
