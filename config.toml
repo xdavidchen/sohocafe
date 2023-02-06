@@ -109,7 +109,7 @@ url = "https://xdavidchen.com/zh-tw/"
 
 [[params.friends]]
 name = "Henry Lin"
-url = "https://gohugo.io"
+url = "https://instagram.com/henry_lin_0608?igshid=YmMyMTA2M2Y="
 
 [[params.friends]]
 name = "Jerry Shih"
@@ -117,7 +117,7 @@ url = "https://gohugo.io"
 
 [[params.friends]]
 name = "Jocelyne Liu"
-url = "https://gohugo.io"
+url = "https://instagram.com/venus_0723?igshid=MWI4MTIyMDE="
 
 [[params.friends]]
 name = "Tim Kuo"
@@ -141,6 +141,6 @@ lang = "en"
 # social share buttons in articles
 [params.shareButtons]
   size = "small"
-  networks = ["facebook", "email", "line"]
+  networks = ["facebook", "email", "line", "telegram"]
   buttonMargin = "2em 0.75em 0 0"
   icon = "solid"
