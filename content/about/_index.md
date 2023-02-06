@@ -1,25 +1,37 @@
 +++
 title = "關於"
-description = "關於今日工室 — 給 SOHO 族的咖啡聽指南"
+description = "關於今日工室 — 給 SOHO 族的咖啡廳指南"
 date = "2023-02-01"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "contact"]
+author = "David Chen"
+header_img = "/img/about-bg.jpg"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+「一個理想的工作環境是什麼模樣？」
 
-Hugo makes use of a variety of open source projects including:
+是深夜獨自沈思的咖啡廳 / 旅行中偶遇的咖啡廳 / 雨天時慵懶氣氛的咖啡廳...？
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+在咖啡廳讀書工作，彷彿已經是台灣文化的一部份，我們希望每個人都能在**今日工室**找到符合自己需求的咖啡廳，打造效率最高的工作環境。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### 致今日工室讀者
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+今日工室作者群...
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+幫你走訪全台各地適合讀書和工作的咖啡廳，不論何時何地，你都能創造一個理想的工作環境。
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+幫你按了關閉廣告的按鈕，確保你有最好的閱讀體驗、快速取得有用的資訊。
+
+幫你找到志同道合的工作夥伴，爲你的專業找到無限可能。
+
+
+### 致理想的工作
+**朝九晚五的上班族**能找到適合做 side project 的工作室。
+
+**SOHO 族**會找到除了家中最適合自己的口袋辦公室。
+
+**學生**會找到比在圖書館讀書更有效率的自習室。
+
+### 致合作廠商
+咖啡廳店主或異業業主，如有部落客行銷 / 品牌故事推廣等需求，請洽今日工室信箱：email coming soon。
+
+⚠️ 謝絕無酬邀約 / 無酬互惠。
