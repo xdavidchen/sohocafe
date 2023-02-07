@@ -8,10 +8,11 @@ tags = [
     "工作",
     "社群"
 ]
-header_img = "https://images.pexels.com/photos/5912741/pexels-photo-5912741.jpeg"
+header_img = ""
 aliases = ["0004"]
-thumbnail = "https://images.pexels.com/photos/5912741/pexels-photo-5912741.jpeg"
+
 +++
+![wordle-you](https://images.pexels.com/photos/5912741/pexels-photo-5912741.jpeg)
 
 厭倦朝九晚五的工作了嗎？嚮往自由工作者的生活方式嗎？還是想要找一份全職的遠距工作呢？
 
