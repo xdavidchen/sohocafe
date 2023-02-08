@@ -88,8 +88,8 @@ bio = "給 SOHO 族的咖啡廳指南"
 
 [params.social]
 # twitter = "johndoe"
-facebook = "johndoe"
-email = "ourEmailAddress"
+# facebook = "johndoe"
+email = "sohocafe@fastmail.com"
 # zhihu = "johndoe"
 # weibo = "johndoe"
 # github = "johndoe"
