@@ -8,10 +8,11 @@ tags = [
     "工作",
     "社群"
 ]
-header_img = "https://images.pexels.com/photos/5912741/pexels-photo-5912741.jpeg"
 aliases = ["0004"]
 
 +++
+
+<img src="https://images.pexels.com/photos/5912741/pexels-photo-5912741.jpeg">
 
 厭倦朝九晚五的工作了嗎？嚮往自由工作者的生活方式嗎？還是想要找一份全職的遠距工作呢？
 
@@ -35,3 +36,5 @@ aliases = ["0004"]
 手機掃描下方 QR Code 加入「**今日工室｜SOHO 族社群**」
 
 <img src="line.png" width="30%" >
+
+或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入！
