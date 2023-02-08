@@ -33,6 +33,6 @@ header_img = "/img/about-bg.jpg"
 **學生**會找到比在圖書館讀書更有效率的自習室。
 
 ### 致合作廠商
-咖啡廳店主或異業業主，如有部落客行銷 / 品牌故事推廣 / 商品業配等需求，請洽今日工室信箱：[sohocafe@fastmail.com](mailto:sohocafe@fastmail.com)。
+咖啡廳店主或異業業主，如有部落客行銷 / 品牌故事推廣 / 商品業配等需求，請洽今日工室信箱：sohocafe@fastmail.com。
 
 ⚠️ 謝絕無酬邀約 / 無酬互惠。
