@@ -113,7 +113,7 @@ url = "https://instagram.com/henry_lin_0608?igshid=YmMyMTA2M2Y="
 
 [[params.friends]]
 name = "Jerry Shih"
-url = "https://gohugo.io"
+url = "https://www.instagram.com/jr_shih/"
 
 [[params.friends]]
 name = "Jocelyne Liu"
@@ -121,11 +121,11 @@ url = "https://instagram.com/venus_0723?igshid=MWI4MTIyMDE="
 
 [[params.friends]]
 name = "Tim Kuo"
-url = "https://gohugo.io"
+url = "https://www.linkedin.com/in/tim-kuo-6b721a104/"
 
 [[params.friends]]
 name = "Zoey Chen"
-url = "https://gohugo.io"
+url = "https://instagram.com/liyun.chen?igshid=YmMyMTA2M2Y="
 
 # See https://giscus.app/
 [params.giscus]
