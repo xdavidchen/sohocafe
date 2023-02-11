@@ -105,7 +105,7 @@ rss = true
 
 [[params.friends]]
 name = "David Chen"
-url = "https://xdavidchen.com/zh-tw/"
+url = "https://xdavidchen.com/"
 
 [[params.friends]]
 name = "Henry Lin"
