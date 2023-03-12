@@ -26,17 +26,17 @@ toc = "true"
 
 <!-- <img src="2.jpg" alt="out of office 招牌" lazyload /> -->
 
-地址：110台北市信義區忠孝東路五段17-3號B1
+地址：110台北市信義區忠孝東路五段17-3號B1。
 
-交通：市政府站一號出口正旁邊
+交通：市政府站一號出口左轉正旁邊。
 
-營業時間：週一 ~ 週五 7:30~18:00  週六、週日9:00~18:00
+營業時間：週一 ~ 週五 7:30~18:00，週六、週日 9:00~18:00。
 
 給 SOHO 族：
-- 用餐時間：不限時
-- 低消：200+10%服務費
-- Wifi / 插座：店員帶位時會詢問
-- 適合：簡單文書工作
+- 用餐時間：不限時。
+- 低消：200+10%服務費。
+- Wifi / 插座：店員帶位時會詢問。
+- 適合：簡單文書工作。
 
 Out of office 社群：[FB粉專](https://www.facebook.com/outofofficecafehome/?locale=zh_TW) | [Instagram](https://www.instagram.com/outofofficecafehome/)
 

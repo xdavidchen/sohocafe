@@ -7,12 +7,14 @@ tags = [
     "SOHO族",
     "咖啡廳",
     "台北",
+    "XX區".
     "XXX捷運站",
     "工作",
     "讀書"
 ]
 aliases = ["Post-NUM"]
 draft = "true"
+toc = "true"
 +++
 
 ## NAME 基本資訊
@@ -25,7 +27,7 @@ draft = "true"
 
 ### 消費
 
-## NAME — 店內消費
+## NAME — 店內環境
 
 ### 整體環境
 
