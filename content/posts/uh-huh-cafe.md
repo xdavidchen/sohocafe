@@ -128,20 +128,29 @@ toc = "true"
 
 ## 嗯哼咖啡食堂 — 菜單
 
-<img src="14.jpg" alt="菜單第一頁" lazyload />
+<!-- two images in one line syntax -->
 
-<img src="15.jpg" alt="菜單第二頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="14.jpg" alt="菜單第一頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="15.jpg" alt="菜單第二頁" /></div>
+</div>
 
-<img src="16.jpg" alt="菜單第三頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="16.jpg" alt="菜單第三頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="17.jpg" alt="菜單第四頁" /></div>
+</div>
 
-<img src="17.jpg" alt="菜單第四頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="18.jpg" alt="菜單第五頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="19.jpg" alt="菜單第六頁" /></div>
+</div>
 
-<img src="18.jpg" alt="菜單第五頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="20.jpg" alt="菜單第七頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="21.jpg" alt="菜單第八頁" /></div>
+</div>
 
-<img src="19.jpg" alt="菜單第六頁" lazyload />
 
-<img src="20.jpg" alt="菜單第七頁" lazyload />
-
-<img src="21.jpg" alt="菜單第八頁" lazyload />
-
-<img src="22.jpg" alt="菜單第九頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="22.jpg" alt="菜單第九頁" /></div>
+</div>

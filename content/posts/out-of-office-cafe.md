@@ -1,15 +1,10 @@
 +++
 author = "Author Name"
 title = "Title Name"
-date = {{ .Date }}
+date = 2023-03-12T16:50:34+08:00
 description = ""
 tags = [
-    "SOHO族",
-    "咖啡廳",
-    "台北",
-    "XXX捷運站",
-    "工作",
-    "讀書"
+    "Tag",
 ]
 aliases = ["Post-NUM"]
 draft = "true"
