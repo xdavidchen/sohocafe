@@ -8,7 +8,7 @@ tags = [
     "工具",
     "生產力"
 ]
-aliases = ["0026"]
+aliases = ["0004"]
 +++
 
 ![Magnet 官網畫面](cover.png)

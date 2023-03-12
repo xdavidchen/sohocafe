@@ -12,7 +12,7 @@ tags = [
     "工作",
     "讀書"
 ]
-aliases = ["0003"]
+aliases = ["0002"]
 toc = "true"
 +++
 <img src="1.jpg" alt="嗯哼咖啡食堂店門口" lazyload />
