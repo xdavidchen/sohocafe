@@ -16,7 +16,7 @@ aliases = ["0005"]
 toc = "true"
 +++
 
-<img src="counter.jpg" alt="店內櫃檯" lazyload />
+<img src="1.jpg" alt="店內櫃檯" lazyload />
 
 在台北信義區想要找到一間價位平價、環境又舒適的咖啡廳不容易，今天要介紹的 Curista Coffee 奎士咖啡，適合文書工作的 SOHO 族和遠距工作者在短時間處理事情，店內活絡的氣氛也許會激發你的靈感也說不定！
 
@@ -24,7 +24,7 @@ toc = "true"
 
 ## 奎士咖啡 — 基本資訊
 
-<img src="front.jpg" alt="咖啡廳門口" lazyload />
+<img src="2.jpg" alt="咖啡廳門口" lazyload />
 
 地址：110 台北市信義區忠孝東路四段 563 號一樓。
 
@@ -40,15 +40,15 @@ toc = "true"
 
 ## 奎士咖啡 — 菜單 ＆ 餐點
 
-<img src="menu-cover.jpg" alt="菜單封面" lazyload />
+<img src="3.jpg" alt="菜單封面" lazyload />
 
-<img src="menu-1.jpg" alt="菜單第一頁" lazyload />
+<img src="4.jpg" alt="菜單第一頁" lazyload />
 
-<img src="menu-2.jpg" alt="菜單第二頁" lazyload />
+<img src="5.jpg" alt="菜單第二頁" lazyload />
 
 ### 飲品
 
-<img src="milk-tea.jpg" alt="紅茶拿鐵" lazyload />
+<img src="6.jpg" alt="紅茶拿鐵" lazyload />
 
 紅茶拿鐵（中）135元，可做冷熱飲、甜度無法調整。
 
@@ -68,12 +68,12 @@ toc = "true"
 
 ## 奎士咖啡 — 店內環境
 
-<img src="indoor-1.jpg" alt="店內環境" lazyload />
+<img src="7.jpg" alt="店內環境" lazyload />
 
 ### 整體環境
 奎士咖啡店內中央是一個大吧台，整體空間明亮、簡潔，富有設計感，吸引不少年輕人在店內拍照打卡。
 
-<img src="window-seat.jpg" alt="沙發區" lazyload />
+<img src="8.jpg" alt="沙發區" lazyload />
 
 店內的座位區集中在窗邊和後半部，有高腳椅區、沙發區、也有一般座位，如有空位可以請服務人員帶到你喜歡的位子。
 
@@ -87,7 +87,7 @@ toc = "true"
 
 ### 服務
 
-<img src="counter-2.jpg" alt="中央吧台" lazyload />
+<img src="9.jpg" alt="中央吧台" lazyload />
 
 在這裡工作的服務人員有非常多人，下午客滿時大概有十幾個服務人員在店內各自分工。
 
@@ -97,7 +97,7 @@ toc = "true"
 
 ### 網路 / 網速
 
-<img src="internet-speed.jpg" alt="網速測試截圖" lazyload />
+<img src="10.jpg" alt="網速測試截圖" lazyload />
 
 奎士咖啡店內有提供免費網路，密碼可以向店員詢問，實測網速為 6.7Mbps。
 
@@ -107,7 +107,7 @@ toc = "true"
 
 ## 奎士咖啡 — 實際體驗感想
 
-<img src="sofa.jpg" alt="沙發區" lazyload />
+<img src="11.jpg" alt="沙發區" lazyload />
 
 某個星期五中午在市政府附近吃完飯後發現天空都是烏雲快下雨了，隨手一查就找到這間店面裝潢簡約的咖啡廳，決定進去稍微遠距辦公。
 
