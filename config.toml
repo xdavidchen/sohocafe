@@ -142,5 +142,5 @@ lang = "en"
 [params.shareButtons]
   size = "small"
   networks = ["facebook", "email", "line", "telegram"]
-  buttonMargin = "2em 0.75em 0 0"
+  buttonMargin = "2em 1em 0 0"
   icon = "solid"
