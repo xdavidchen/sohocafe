@@ -24,7 +24,7 @@ toc = "true"
 
 ## 基本資訊 — Out of office Cafe 不在辦公室
 
-<!-- <img src="2.jpg" alt="out of office 招牌" lazyload /> -->
+<img src="2.jpg" alt="out of office 招牌" lazyload />
 
 地址：110台北市信義區忠孝東路五段17-3號B1。
 
