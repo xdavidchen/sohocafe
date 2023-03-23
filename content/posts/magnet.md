@@ -41,3 +41,10 @@ Magnet 可以做到的不只是你在 Windows 上可以做到的快速拖曳縮�
 這樣的視窗管理工具不管是對於學生要閱讀研究報告做筆記、影音創作者多視窗工作、或是任何需要用到兩個視窗以上的工作內容都非常適合。
 
 Mac App Store 上售價：美金 $7.99，可以到 [Magnet 官網購買](https://magnet.crowdcafe.com/)。
+
+---
+
+**招募 SOHO｜一同打造理想工作風格的你**\
+手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
+
+<img src="line.png" width="30%" >

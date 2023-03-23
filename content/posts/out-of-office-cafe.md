@@ -135,3 +135,10 @@ Out of office 有提供免費無限上網，不過當天我的手機跟電腦都
 <div class="row">
     <div class="col-xs-6 col-md-6"><img src="16.jpg" alt="菜單第七頁" /></div>
 </div>
+
+---
+
+**招募 SOHO｜一同打造理想工作風格的你**\
+手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
+
+<img src="line.png" width="30%" >

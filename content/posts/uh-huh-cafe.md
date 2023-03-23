@@ -31,7 +31,7 @@ toc = "true"
 
 交通：捷運台電大樓站二號出口，步行三分鐘。位在小巷子裡面，附近沒有汽車停車位，機車位子也不多，建議步行前往。
 
-營業時間：週三 ～ 週日 11:00 ~ 21:00，週一、週二公休。
+營業時間：**因應包場需求，每個月公布於臉書粉專和 Google 商家頁面喔！**
 
 嗯哼咖啡食堂社群帳號：[Facebook 粉絲團](https://www.facebook.com/life031673)｜[Instagram 帳號](https://www.instagram.com/life031673/)。
 
@@ -154,3 +154,10 @@ toc = "true"
 <div class="row">
     <div class="col-xs-6 col-md-6"><img src="22.jpg" alt="菜單第九頁" /></div>
 </div>
+
+---
+
+**招募 SOHO｜一同打造理想工作風格的你**\
+手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
+
+<img src="line.png" width="30%" >

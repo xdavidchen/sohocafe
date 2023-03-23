@@ -116,3 +116,10 @@ toc = "true"
 服務人員親切、環境寬敞明亮乾淨、店內設計簡約都讓客人有良好的體驗。
 
 總體而言，Curista Coffee 奎士咖啡很適合需要進行當面討論事情、或是想要簡短處理公事的文書人員。
+
+---
+
+**招募 SOHO｜一同打造理想工作風格的你**\
+手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
+
+<img src="line.png" width="30%" >

@@ -139,3 +139,10 @@ toc = "true"
 2J CAFE在每個座位幾乎都有設置插頭，且提供快速的免費WiFi，當別的咖啡廳限制用餐時間一個半小時，2J堅持平日不限時，假日雖有限制，但也有充裕的四小時，對SOHO族來說何嘗不是個優秀值得久待的好去處！
 
 這間咖啡廳無意間蘊藏了自己的許多回憶，我想是因為他營造出來的典雅復古風格，可以讓我如此放心的把回憶典藏在這吧！
+
+---
+
+**招募 SOHO｜一同打造理想工作風格的你**\
+手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
+
+<img src="line.png" width="30%" >
