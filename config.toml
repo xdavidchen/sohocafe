@@ -104,6 +104,10 @@ rss = true
 # url = ""
 
 [[params.friends]]
+name = "Aimee Lu"
+url = "https://instagram.com/hii_foodie4real?igshid=YmMyMTA2M2Y="
+
+[[params.friends]]
 name = "David Chen"
 url = "https://xdavidchen.com/"
 
@@ -118,6 +122,10 @@ url = "https://www.instagram.com/jr_shih/"
 [[params.friends]]
 name = "Jocelyne Liu"
 url = "https://instagram.com/venus_0723?igshid=MWI4MTIyMDE="
+
+[[params.friends]]
+name = "Lorie Chen"
+url = "https://www.instagram.com/chcc_7/"
 
 [[params.friends]]
 name = "Tim Kuo"

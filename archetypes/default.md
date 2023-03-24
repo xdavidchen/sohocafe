@@ -17,6 +17,8 @@ draft = "true"
 toc = "true"
 +++
 
+<img src="1.jpg" alt="NAME 店門口" lazyload />
+
 ## NAME 基本資訊
 
 地址：
@@ -35,9 +37,9 @@ toc = "true"
 
 ### 消費
 
-## NAME — 店內環境
+## NAME — 整體環境
 
-### 整體環境
+### 店內環境
 
 ### 服務
 
