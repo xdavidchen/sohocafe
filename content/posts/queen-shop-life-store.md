@@ -102,7 +102,7 @@ Queen Shop Life Store支援現金、信用卡與線上支付，非常方便。�
 
 ## Queen Shop Life Store — 實際體驗感想
 
-<img src="11.jpg" alt="網速實測" lazyload />
+<img src="11.png" alt="網速實測" lazyload />
 
 第一次來訪 Queen Shop Life Store，每次經過都對這家店感到好奇，這次終於有空來訪了，實際來訪發現這裡不論是空間的規劃與美學都很符合我的美感，喜歡這樣的優閒氛圍，讓我能夠在繁忙的都市中喘口氣。通常這樣的咖啡廳價格會較高些，沒想到這裡的價格如此友善，增加了我對這個環境的好感，與各位重視質感與空間美學的SOHO族朋友們分享。
 
