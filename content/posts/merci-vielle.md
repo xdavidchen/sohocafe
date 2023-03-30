@@ -21,7 +21,7 @@ toc = "true"
 
 一個舒適又安靜的環境，想必是高效工作的必要條件吧。今天要介紹的咖啡廳隱身在板橋鬧區的小巷弄，店中沒有太多紛擾、太多的人聲，讓我們伴隨著輕快的音樂與濃濃咖啡香度過一個超高效率的下午吧！
 
-Merci系列餐廳在板橋在地小有名氣，總共有四間分店，Merci café是許多板橋人心目中的早午餐首選，Merci Petit是以Merci café的原址改裝繼續經營，Merci créme 主打精緻的法式甜點，而今天要介紹的咖啡廳 Merci Vielle 則是適合 SOHO 族的安身小角落。如果想更了解 Merci Vielle，相信這篇文章可以為你帶來許多實用的資訊。
+Merci系列餐廳在板橋在地小有名氣，總共有四間分店，Merci café 是許多板橋人心目中的早午餐首選；Merci Petit 是以Merci café 的原址改裝繼續經營；Merci créme 主打精緻的法式甜點，而今天要介紹的咖啡廳 Merci Vielle 則是適合 SOHO 族的安身小角落。如果想更了解 Merci Vielle，相信這篇文章可以為你帶來許多實用的資訊。
 
 ## Merci Vielle 基本資訊
 
