@@ -33,12 +33,12 @@ toc = "true"
 營業時間：週一～週五：09:00～22:00；週六～週日：13:00～22:00。
 
 給 SOHO 族：
-- 用餐時間：不限時
-- 低消：一杯飲品
-- Wifi / 插座：座位上皆有
-- 適合：各式靜態工作皆宜
+- 用餐時間：不限時。
+- 低消：一杯飲品。
+- Wifi / 插座：座位上皆有。
+- 適合：各式靜態工作皆宜。
 
-Congrats Cafe 社群：[FB 粉專](https://www.facebook.com/congratscafe.tw/?locale=zh_TW) | [IG](https://www.instagram.com/congratscafe/)
+Congrats Cafe 社群：[FB 粉專](https://www.facebook.com/congratscafe.tw/?locale=zh_TW) | [IG](https://www.instagram.com/congratscafe/)。
 
 ## Congrats Café — 餐點
 
