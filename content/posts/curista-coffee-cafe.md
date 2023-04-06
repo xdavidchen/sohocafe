@@ -4,13 +4,8 @@ title = "Curista Coffee 奎士咖啡｜適合文書處理、談生意的簡約�
 date = "2023-02-13T17:51:53+08:00"
 description = "Curista Coffee 奎士咖啡是信義區平價、環境舒適的咖啡廳，適合文書工作的 SOHO 族和遠距工作者在短時間處理公事！"
 tags = [
-    "SOHO族",
-    "咖啡廳",
     "台北",
-    "市政府捷運站",
-    "工作",
-    "讀書"
-
+    "市政府捷運站"
 ]
 aliases = ["0003"]
 toc = "true"

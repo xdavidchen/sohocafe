@@ -2,15 +2,12 @@
 author = "Jerry Shih"
 title = "Queen Shop Life Store | 輔大旁的複合式質感咖啡廳"
 date = 2023-03-28T10:28:21+08:00
-description = "咖啡、服飾、花藝；緊鄰繁忙的中正路，Queen Shop Life Store 提供各式生活提案；質感Soho族不能錯過的休憩之地。"
+description = "咖啡、服飾、花藝；緊鄰繁忙的中正路，Queen Shop Life Store 提供各式生活提案；質感 Soho 族不能錯過的休憩之地。"
 tags = [
-    "SOHO族",
-    "咖啡廳",
+    "不限時咖啡廳",
     "新北",
     "新莊區",
-    "輔大捷運站",
-    "工作",
-    "讀書"
+    "輔大捷運站"
 ]
 aliases = ["0009"]
 toc = "true"

@@ -4,13 +4,11 @@ title = "Congrats Café | 信義安和巷弄間的老宅咖啡廳"
 date = 2023-04-05T19:55:55+08:00
 description = "古宅風格的 Congrats Café, 靜謐的氛圍極度適合 SOHO 族高度專注辦公！"
 tags = [
-    "SOHO族",
-    "咖啡廳",
+    "不限時咖啡廳",
     "台北",
     "信義區",
     "信義安和捷運站",
-    "工作",
-    "讀書"
+    "老宅"
 ]
 aliases = ["0011"]
 toc = "true"
