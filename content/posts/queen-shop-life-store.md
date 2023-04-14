@@ -1,5 +1,5 @@
 +++
-author = "Jerry Shih"
+author = "JR Shih"
 title = "Queen Shop Life Store | 輔大旁的複合式質感咖啡廳"
 date = 2023-03-28T10:28:21+08:00
 description = "咖啡、服飾、花藝；緊鄰繁忙的中正路，Queen Shop Life Store 提供各式生活提案；質感 Soho 族不能錯過的休憩之地。"

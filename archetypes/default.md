@@ -4,13 +4,10 @@ title = "Title Name"
 date = {{ .Date }}
 description = ""
 tags = [
-    "SOHO族",
-    "咖啡廳",
+    "XXX 咖啡廳",
     "台北",
     "XX區",
     "XXX捷運站",
-    "工作",
-    "讀書"
 ]
 aliases = ["Post-NUM"]
 draft = "true"
@@ -20,6 +17,8 @@ toc = "true"
 <img src="1.jpg" alt="NAME 店門口" lazyload />
 
 ## NAME 基本資訊
+
+<img src="2.jpg" alt="NAME 招牌" lazyload />
 
 地址：
 
