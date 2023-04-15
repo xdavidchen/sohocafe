@@ -23,4 +23,7 @@ collections:
       # - {label: "Featured Image", name: "thumbnail", widget: "image"}
       # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - { label: "Tags", name: "tags", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["台北", "新北", "不限時咖啡廳", "深夜咖啡廳"]}
+      - {label: "Aliases", name: "aliases", widget: "number", default: 0000}
+      - {label: "Table of Content", name: "toc", widget: "boolean", default: true}
+      - {label: "Author", name: "author", widget: "select", max: 1, options: ["Aimee Lu", "David Chen", "Henry Lin", "JR Shih", "Jocelyne Liu", "Lorie Chen", "Tim Kuo", "Zoey Chen"] }
