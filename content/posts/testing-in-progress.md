@@ -16,11 +16,9 @@ author: David Chen
 ---
 
 
-![](https://lh5.googleusercontent.com/io4wIrEoQq67Js1TWT4YMsnsZY2OjsiquqNHflsadRbUSJbcvy-DiAeir0Uf422aJy4_egpLN8wdxRD9muyirS2fAsK2HFXRphu9Dh3r2AEPqQEQhGFMvVCYdiG3dNUDPg9JJ3BiHyHd-0pC14PtXzI)
 
 
-
-
+![alt](https://lh5.googleusercontent.com/io4wIrEoQq67Js1TWT4YMsnsZY2OjsiquqNHflsadRbUSJbcvy-DiAeir0Uf422aJy4_egpLN8wdxRD9muyirS2fAsK2HFXRphu9Dh3r2AEPqQEQhGFMvVCYdiG3dNUDPg9JJ3BiHyHd-0pC14PtXzI "title alt")
 
 ![店內環境alt](https://lh5.googleusercontent.com/DRypKsTeVA2yMFlyxFTqxxumeipvLg1fioevUCdePxmZOhd2WNyx_L7H-cPZMOA96Yh4h7vUzKwhiHc5V26JRfmVnzAudtAUWnjSVUDKfWAJb2_vi2NngNCImxz6Hqh-QVT_FWtadG-_M8tv3OOmQkA "店內環境title")
 
