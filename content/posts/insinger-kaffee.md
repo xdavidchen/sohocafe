@@ -1,10 +1,10 @@
 +++
 author = "Zoey Chen"
 title = "Insinger Kaffee 硬性格咖啡｜柔中帶剛的自家烘焙咖啡廳"
-date = 2023-04-15T18:56:17+08:00
+date = 2023-04-15T16:56:17+08:00
 description = "座落於捷運中山國中站旁的硬性格咖啡以網路商店起家，在台灣咖啡界默默耕耘十幾個年頭，也小有名氣。繁忙的午後，你是否感到身心疲憊？來一杯有水準的手沖單品吧！"
 tags = [
-    "XXX 咖啡廳",
+    "不限時咖啡廳",
     "台北",
     "松山區",
     "中山國中捷運站",
@@ -13,13 +13,13 @@ aliases = ["0016"]
 toc = "true"
 +++
 
-<img src="1.jpg" alt="NAME 店面外觀" lazyload />
+<img src="1.jpg" alt="Insinger Kaffee 店面外觀" lazyload />
 
 身為咖啡愛好者的SOHO族，你是如何選擇咖啡廳的呢？位在熱鬧商業區旁的寧靜小巷中，InsingerKaffee 硬性格咖啡提供高品質的咖啡再加上完美的辦公環境，想必是你的最佳選擇之一。
  
 希望透過這篇文章帶你了解更多有關硬性格咖啡的資訊，還有其不凡的獨特之處，藉此為你的「今日工事」新增一個選項！
 
-## NAME 基本資訊
+## Insinger Kaffee 基本資訊
 
 <img src="2.jpg" alt="往店裡頭望去，看見老闆專心地準備著餐點" lazyload />
 
@@ -44,7 +44,7 @@ INSINGERKAFFEE 硬性格咖啡 [官網 《烘焙商品銷售平台》](https://w
 - 適合：閱讀、辦公、洽談公事。
 - 注意事項：禁攜帶外食。
 
-## NAME — 餐點
+## Insinger Kaffee — 餐點
 
 硬性格咖啡提供多種飲品選擇，由於咖啡是他們的拿手項，光是咖啡的品項就多達二十多種，若是不喝咖啡的人也有可可、鮮奶茶及氣泡飲等選擇。餐點的部分分成了鹹食與甜點，店內主打的肉桂捲當天下午已經售完，想要嚐嚐看肉桂過的人必須早點來，以免向隅。
 
@@ -64,7 +64,7 @@ INSINGERKAFFEE 硬性格咖啡 [官網 《烘焙商品銷售平台》](https://w
 
 由於菜單篇幅較冗長，故將置於文章最底部，有興趣可以往下滑！
 
-## NAME — 整體環境
+## Insinger Kaffee — 整體環境
 
 <img src="5.jpg" alt="店內一隅" lazyload />
 
@@ -112,7 +112,7 @@ INSINGERKAFFEE 硬性格咖啡 [官網 《烘焙商品銷售平台》](https://w
 
 經實測硬性格咖啡的網速平均落在 10-15 Mbps 之間，較適合一般文書處理。
 
-## NAME — 實際走訪感想
+## Insinger Kaffee — 實際走訪感想
 
 <img src="12.jpg" alt="天色漸暗，店內的燈光也變得柔和" lazyload />
 
@@ -124,17 +124,23 @@ INSINGERKAFFEE 硬性格咖啡 [官網 《烘焙商品銷售平台》](https://w
 
 在這裡適合靜靜地看書、工作，置身於體貼的服務，讓自己被咖啡香氣給喚醒，一掃一整天的疲憊感吧！
 
-## NAME — 菜單
+## 硬性格 — 菜單
 
-<img src="13.jpg" alt="NAME 菜單第一頁" lazyload />
+<!-- two images in one line syntax -->
 
-<img src="14.jpg" alt="NAME 菜單第二頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="13.jpg" alt="菜單第一頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="14.jpg" alt="菜單第二頁" /></div>
+</div>
 
-<img src="15.jpg" alt="NAME 菜單第三頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="15.jpg" alt="菜單第三頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="16.jpg" alt="菜單第四頁" /></div>
+</div>
 
-<img src="16.jpg" alt="NAME 菜單第四頁" lazyload />
-
-<img src="17.jpg" alt="NAME 菜單第五頁" lazyload />
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="17.jpg" alt="菜單第五頁" /></div>
+</div>
 
 ---
 
