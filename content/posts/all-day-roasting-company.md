@@ -19,8 +19,6 @@ author: Jocelyne Liu
 
 接著是 ALL DAY ROASTING COMPANY 的交通狀況、餐點、店內環境等資訊，希望他能成為你的「今日工室」！
 
-到 ALL DAY ROASTING COMPANY (ADRC) 點一杯咖啡完成工作吧
-
 ## ADRC — 基本資訊
 
 ![富含咖啡元素的招牌](https://lh5.googleusercontent.com/fuadbk3NYpfVwtK5isoJKqmE7o84E-QsmY45ywo5r99LDvL1b4BkgA5wy6ffB0dAkLgB9g8fvZzH93TqPir1Wxg16YtArAcZ-1IPJqKMzWj52mPPsFEDTvSBVXQ5l61z3ccfK0ZsPghPimKDwbmxTOs "富含咖啡元素的招牌")
