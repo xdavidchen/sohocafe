@@ -114,7 +114,11 @@ ADRC 一層樓，提供沙發、吧檯、一般座位區。服務人員會詢問
 
 ![網速不錯，71 Mbps，看影片、打遊戲都沒問題](https://lh3.googleusercontent.com/hc3rgdpx0tLIuDLyIXw55tEXAXJGa-fUJ_DFeYMGOoFxcwwX7hL9MekI-hYyN4HhPOad2F4H55GU8vfL-rfZieGrcrWER4xQTBwTkZZ_Enom5u4gvZ2ySFMG1OYv8eGXccd7xlvnUVkhGKIgN29gEuM "網速不錯，71 Mbps，看影片、打遊戲都沒問題")
 
+### 廁所
+
 ![廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨](https://lh4.googleusercontent.com/-j-NlyHV8bsGynJUf5qaEEMIAv8fBQClZUOVNRmrMc4HJ05gQFNxQEZnYy8Rijno8ubebfNA4rnLypKTQl9QZsXMOmG8OA3H4xoVOToQW5gGIjhia7gkNhLn-3banYk3F_-eZO_bNFylwevhjihPYCg "廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨")
+
+
 
 ![咖啡廳最內部的座位區](https://lh5.googleusercontent.com/vTfpPIZlpmoYXibs-9-hpIAMDXOqsByLTtV0IkEzcvUQrHMvlmB7R56f1y37Lu6icQCpymSFADyudpZDi0AJOEQzEtFEaV9xXZolNcisRN-rZEKYMQscSLDYW5s2Om6XzLVff29KrBzEibUWbzEkVjo "咖啡廳最內部的座位區")
 
