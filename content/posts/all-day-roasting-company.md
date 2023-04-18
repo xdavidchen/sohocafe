@@ -38,7 +38,7 @@ author: Jocelyne Liu
 
 延壽街上的 ADRC 咖啡廳位在延壽藥局旁，正對馬路，很好找。若以大眾交通工具前往，建議搭公車，能走較少路。若開車、騎摩托車，附近巷弄內有公共停車格，旁邊也有收費停車場。「聯合二村」有 Youbike 租借站，共享單車前往也是不錯的選擇！
 
-## ADRC — 菜單＆價格
+## ADRC — 餐點 ＆價格
 
 ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲品部分價位從 NTD 130 到 580 不等，價位相對高。其中咖啡是他們的招牌，菜單上清楚標示咖啡豆種植地、處理方式、風味特色。重度咖啡愛好者不能錯過他們引以為傲的咖啡。如果不清楚怎麼點選，詢問服務員都能得到耐心且詳細的解答。
 
@@ -114,7 +114,11 @@ ADRC 一層樓，提供沙發、吧檯、一般座位區。服務人員會詢問
 
 ![網速不錯，71 Mbps，看影片、打遊戲都沒問題](https://lh3.googleusercontent.com/hc3rgdpx0tLIuDLyIXw55tEXAXJGa-fUJ_DFeYMGOoFxcwwX7hL9MekI-hYyN4HhPOad2F4H55GU8vfL-rfZieGrcrWER4xQTBwTkZZ_Enom5u4gvZ2ySFMG1OYv8eGXccd7xlvnUVkhGKIgN29gEuM "網速不錯，71 Mbps，看影片、打遊戲都沒問題")
 
+### 廁所
+
 ![廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨](https://lh4.googleusercontent.com/-j-NlyHV8bsGynJUf5qaEEMIAv8fBQClZUOVNRmrMc4HJ05gQFNxQEZnYy8Rijno8ubebfNA4rnLypKTQl9QZsXMOmG8OA3H4xoVOToQW5gGIjhia7gkNhLn-3banYk3F_-eZO_bNFylwevhjihPYCg "廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨")
+
+
 
 ![咖啡廳最內部的座位區](https://lh5.googleusercontent.com/vTfpPIZlpmoYXibs-9-hpIAMDXOqsByLTtV0IkEzcvUQrHMvlmB7R56f1y37Lu6icQCpymSFADyudpZDi0AJOEQzEtFEaV9xXZolNcisRN-rZEKYMQscSLDYW5s2Om6XzLVff29KrBzEibUWbzEkVjo "咖啡廳最內部的座位區")
 
@@ -133,6 +137,8 @@ ADRC 是喝咖啡的 SOHO 族在民生社區不該錯過的一間咖啡廳。工
 在這裡辦公、談生意都是不錯的選擇。
 
 ![「 ALL DAY ROASTING COMPANY」：精選咖啡、談生意、舒適](https://lh5.googleusercontent.com/z9r-RpEeAluDdbNHC-qg1idintrGIg_s06Hl2cQvKZEGya_ICecTIA-M0VZULlicGWaOdlo-I4Q72W1zhfnzmZg8FSJF-fNZyKKJSAj2mc3YHFRjcJrEwqSiYONhV5S8no6kKLSkss6I0Mi3tz8PReA "「 ALL DAY ROASTING COMPANY」：精選咖啡、談生意、舒適")
+
+## ADRC — 菜單
 
 單品咖啡菜單(會依據狀況調整品項)：
 
