@@ -26,17 +26,16 @@ author: Jocelyne Liu
 ![富含咖啡元素的招牌](https://lh5.googleusercontent.com/fuadbk3NYpfVwtK5isoJKqmE7o84E-QsmY45ywo5r99LDvL1b4BkgA5wy6ffB0dAkLgB9g8fvZzH93TqPir1Wxg16YtArAcZ-1IPJqKMzWj52mPPsFEDTvSBVXQ5l61z3ccfK0ZsPghPimKDwbmxTOs "富含咖啡元素的招牌")
 
 * 營業時間：週一 ～ 週日 10：00 - 21：00。
-* 地址：台北市松山區延壽街329號1樓
-* 聯絡電話：02-87874468
+* 地址：台北市松山區延壽街329號1樓。
+* 聯絡電話：02-87874468。
 * 交通：
-
   * 公車：聯合二村5分鐘內能抵達的巷弄內。
   * 捷運：南京三民捷運站1號出口往介壽國中的方向走路13分鐘內抵達。
   * 摩托車：門口與附近巷弄內能找到停車位。
   * 開車：附近提供公有停車格，也有收費停車場—民生立體，從收費停車場步行5分鐘內能抵達咖啡廳。
-* 付款方式：現金、信用卡交易
-* 官網：[ALL DAY ROASTING COMPANY(ADRC)](https://www.allday-normal.com/)
-* 社群帳號：[Instagram帳號](https://www.instagram.com/allday_roastingcompany/)
+* 付款方式：現金、信用卡交易。
+* 官網：[ALL DAY ROASTING COMPANY (ADRC)](https://www.allday-normal.com/)。
+* 社群帳號：[Instagram 帳號](https://www.instagram.com/allday_roastingcompany/)。
 
 延壽街上的 ADRC 咖啡廳位在延壽藥局旁，正對馬路，很好找。若以大眾交通工具前往，建議搭公車，能走較少路。若開車、騎摩托車，附近巷弄內有公共停車格，旁邊也有收費停車場。「聯合二村」有 Youbike 租借站，共享單車前往也是不錯的選擇！
 
@@ -44,7 +43,7 @@ author: Jocelyne Liu
 
 ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲品部分價位從 NTD 130 到 580 不等，價位相對高。其中咖啡是他們的招牌，菜單上清楚標示咖啡豆種植地、處理方式、風味特色。重度咖啡愛好者不能錯過他們引以為傲的咖啡。如果不清楚怎麼點選，詢問服務員都能得到耐心且詳細的解答。
 
-![ADRC 喜歡他們的品牌精神與價值](https://lh3.googleusercontent.com/v88B0eFEaM5jh-oZsh5VYRh371tmp758uhiYLoS3jrOzWm6hBcaIWH2Y7YY1rYVFKKNOhoojfnX0Iifine0qFCObUwtVXE_JX7jOnY4yuI_EVZW39B0xjse13XWzuqLJy84HrEECt1y9UoNYd5EhU1U "ADRC 喜歡他們的品牌精神與價值")
+![喜歡 ADRC 的品牌精神與價值](https://lh3.googleusercontent.com/v88B0eFEaM5jh-oZsh5VYRh371tmp758uhiYLoS3jrOzWm6hBcaIWH2Y7YY1rYVFKKNOhoojfnX0Iifine0qFCObUwtVXE_JX7jOnY4yuI_EVZW39B0xjse13XWzuqLJy84HrEECt1y9UoNYd5EhU1U "ADRC 喜歡他們的品牌精神與價值")
 
 ### 飲品
 
@@ -56,7 +55,7 @@ ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲
 
 第二杯是熱拿鐵，店家提供加購 OATLY 燕麥奶。熱拿鐵有專業的拉花、咖啡的香氣，嚐起來有果香與些許溫和的苦味，喝完嘴裡會留下奶香與濃郁咖啡香。
 
-* 同場加映提供燕麥奶選擇的咖啡廳：[杯盃 PuiBUi |大安深夜不限時咖啡廳，一個安靜的秘密基地](https://sohocafe.today/posts/puibui-cafe/)
+* 同場加映提供燕麥奶選擇的咖啡廳：<br>[杯盃 PuiBUi |大安深夜不限時咖啡廳，一個安靜的秘密基地](https://sohocafe.today/posts/puibui-cafe/)
 
 ![黑糖奶油冰滴咖啡，真的是液態提拉米蘇](https://lh6.googleusercontent.com/ump265IWZbfrrib9yy2Gs51xrfcLzJMiey-6-NkEqwbNpbziEaSkp5WELacaFB73vtTJfGPZjm5TMatTElKlOpJhqCNuqMyf925xan8FqHsPpSynM1F_m3b9hVOy0ILdazM27wnngrP0y-fw6OR2uMk "黑糖奶油冰滴咖啡，真的是液態提拉米蘇")
 
@@ -68,6 +67,8 @@ ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲
 
 ![喜歡蘋果派，酥烤皮蘋果派與冰淇淋不容錯過～](https://lh4.googleusercontent.com/JTT4nC-ZD5gOuHs67ggVuAw243XUzQVKFo0PuQ8ClpyYrNhJXqi1lbq546jyYzYQ7vzjzHY5a0ZNlAXdP_ZeI68ze6njZ44ZTbEV2kji8Fg-aHDf3ytsLjakILvcarcyrbStEUQwJBSjOnQ6z0oYYhE "喜歡蘋果派，酥烤皮蘋果派與冰淇淋不容錯過～")
 
+### 餐點
+
 餐點部分，價位在 NTD 250 上下。
 
 鹹食部分，常去的朋友說煙燻鮭魚三明治超好吃！法國麵包夾煙燻鮭魚，附生菜，想吃鹹食的話，可以參考。
@@ -76,11 +77,13 @@ ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲
 
 離開前結帳除了提供現金支付，也提供刷卡支付。
 
-## ADRC — 服務
+### 服務
 
 服務人員會到座位上協助點餐，服務人員人數滿多，招呼後都有盡快抵達。水、衛生紙在轉角處自取。
 
 ## ADRC — 環境
+
+### 整體環境
 
 ![鐵椅、木桌、鐵件外露營造標準英倫工業風](https://lh5.googleusercontent.com/tFfHxoywiQro-00frdWU9VoJjdSnlmhxwtBnAT6GPwyb1tukvFKobjcD9AUcTFsgKemh_L4LyRnxJqhgq1cYDly1MnNMSp3eL9k1cLOPBTWOCQnTRCFRLH3cS9u8-r7xs4qAOmDaMZS3GKqPXzuYplg "鐵椅、木桌、鐵件外露營造標準英倫工業風")
 
@@ -108,19 +111,21 @@ ADRC 一層樓，提供沙發、吧檯、一般座位區。服務人員會詢問
 
 ![內部轉角座位區](https://lh4.googleusercontent.com/4TgctvSae6DiRddrQdFzOvJG428qsd-_3jDxG8NoXDXf-fIQ_xgj7qbXur20TnlpwlMcFya8hScycnoBNJrtILY3DMJN0gyNJhdb4XhbJ2a3Cqz_r3dERs7N4RU__ksew8b4yKWnWwnrLVpGhpWKd7E "內部轉角座位區")
 
+### 網路
+
 ![網速不錯，71 Mbps，看影片、打遊戲都沒問題](https://lh3.googleusercontent.com/hc3rgdpx0tLIuDLyIXw55tEXAXJGa-fUJ_DFeYMGOoFxcwwX7hL9MekI-hYyN4HhPOad2F4H55GU8vfL-rfZieGrcrWER4xQTBwTkZZ_Enom5u4gvZ2ySFMG1OYv8eGXccd7xlvnUVkhGKIgN29gEuM "網速不錯，71 Mbps，看影片、打遊戲都沒問題")
 
 ![廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨](https://lh4.googleusercontent.com/-j-NlyHV8bsGynJUf5qaEEMIAv8fBQClZUOVNRmrMc4HJ05gQFNxQEZnYy8Rijno8ubebfNA4rnLypKTQl9QZsXMOmG8OA3H4xoVOToQW5gGIjhia7gkNhLn-3banYk3F_-eZO_bNFylwevhjihPYCg "廁所門隱藏在轉角處，需登階入內，裡面空間大又乾淨")
 
 ![咖啡廳最內部的座位區](https://lh5.googleusercontent.com/vTfpPIZlpmoYXibs-9-hpIAMDXOqsByLTtV0IkEzcvUQrHMvlmB7R56f1y37Lu6icQCpymSFADyudpZDi0AJOEQzEtFEaV9xXZolNcisRN-rZEKYMQscSLDYW5s2Om6XzLVff29KrBzEibUWbzEkVjo "咖啡廳最內部的座位區")
 
-## ADRC — 特色
+### 特色
 
 ![自助區角落，擺放咖啡禮盒與 LOUIS VUITTON CITY GUIDE](https://lh6.googleusercontent.com/XGSdAQlUnWDxKDXiSpYNQwoiqiN5vsg_R5fwO6Wvn9dv_ddI7Zie9mEogFTrgz3CK96s6KvO4_eI-Y_0oerl5lteEvMC6zdvr9mas642IbRgnKp9O0JuiRTCW_xe4PAnZzplOpa9D7YzjvD5syABDJ0 "自助區角落，擺放咖啡禮盒與 LOUIS VUITTON CITY GUIDE")
 
 ADRC 入選 Louis Vuitton 旅遊書，並被提名為台灣前 25 名的咖啡廳，這樣的殊榮不常見。咖啡是他們的驕傲，精選世界各地的咖啡，並提供各種風味供選擇，環境、飲品、餐點部分都不在話下。
 
-## —總結— 
+## ADRC — 總結
 
 那天一進門就看到許多使用電腦的客人，而且一坐幾乎一下午，我想這裡已成為許多人的「今日工室」。
 
@@ -128,14 +133,14 @@ ADRC 是喝咖啡的 SOHO 族在民生社區不該錯過的一間咖啡廳。工
 
 在這裡辦公、談生意都是不錯的選擇。
 
-![「 ALL DAY ROASTING COMPANY｜民生社區工業風咖啡廳」特徵：精選咖啡、談生意、舒適](https://lh5.googleusercontent.com/z9r-RpEeAluDdbNHC-qg1idintrGIg_s06Hl2cQvKZEGya_ICecTIA-M0VZULlicGWaOdlo-I4Q72W1zhfnzmZg8FSJF-fNZyKKJSAj2mc3YHFRjcJrEwqSiYONhV5S8no6kKLSkss6I0Mi3tz8PReA "「 ALL DAY ROASTING COMPANY｜民生社區工業風咖啡廳」特徵：精選咖啡、談生意、舒適")
+![「 ALL DAY ROASTING COMPANY」：精選咖啡、談生意、舒適](https://lh5.googleusercontent.com/z9r-RpEeAluDdbNHC-qg1idintrGIg_s06Hl2cQvKZEGya_ICecTIA-M0VZULlicGWaOdlo-I4Q72W1zhfnzmZg8FSJF-fNZyKKJSAj2mc3YHFRjcJrEwqSiYONhV5S8no6kKLSkss6I0Mi3tz8PReA "「 ALL DAY ROASTING COMPANY」：精選咖啡、談生意、舒適")
 
-單品咖啡菜單(會依據狀況調整品項)
+單品咖啡菜單(會依據狀況調整品項)：
 
 ![ADRC 菜單第一頁](https://lh5.googleusercontent.com/ZGzZT3cGIdyFj85A8AO72_8OLOkWhI9X-arxZoWIjkPqZ6MdpW2qmN6Fca0yYr31vj3tPWWk77jyVmfopyQi9-aeA3G2gdfApU3qn-kGQAjv20wTe57tRp9x47DDqulWEs475Rr2REbaGB_cNmVQawo "ADRC 菜單第一頁")
 
 ![ADRC 菜單第二頁](https://lh4.googleusercontent.com/V-nEC1d0fAUs6tBgXrJLGeGKKcvsZh-lICOfyDZ0S46iBhc1KYxCvX4XTqgY4VfsFp7HoNHeg2Tk92HbNmpaAJ0ZilLCWzshSb5AAhLK8HVS0yVHEqTLPg_1iHx7ma8-bXhgD-3aq_lLQ0uF6NMbqTU "ADRC 菜單第二頁")
 
-餐點、飲品菜單
+餐點、飲品菜單：
 
-![ADRC 菜單第三頁](https://lh4.googleusercontent.com/YWTGL3cyajwGG_dfgH4C51N6kJnPbJiCoxfKPQdSyLPuGiF54i3LWZ7StdJ1em6m2E3-0NAsWfgITbkoWYt504BiSzmhRx9Jpr3WG7i1keaXOZJ5mIXrT3aMgCYiLrFfgfwD0gYeGWJf074xGVJ5T64 "ADRC 菜單第三頁")
+![餐點、飲品菜單](https://lh4.googleusercontent.com/YWTGL3cyajwGG_dfgH4C51N6kJnPbJiCoxfKPQdSyLPuGiF54i3LWZ7StdJ1em6m2E3-0NAsWfgITbkoWYt504BiSzmhRx9Jpr3WG7i1keaXOZJ5mIXrT3aMgCYiLrFfgfwD0gYeGWJf074xGVJ5T64 "餐點、飲品菜單")
