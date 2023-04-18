@@ -44,9 +44,7 @@ author: Jocelyne Liu
 
 ADRC 提供餐點、咖啡、茶等風味飲品，文末提供菜單供參。飲品部分價位從 NTD 130 到 580 不等，價位相對高。其中咖啡是他們的招牌，菜單上清楚標示咖啡豆種植地、處理方式、風味特色。重度咖啡愛好者不能錯過他們引以為傲的咖啡。如果不清楚怎麼點選，詢問服務員都能得到耐心且詳細的解答。
 
-![ADRC 菜單](https://lh3.googleusercontent.com/v88B0eFEaM5jh-oZsh5VYRh371tmp758uhiYLoS3jrOzWm6hBcaIWH2Y7YY1rYVFKKNOhoojfnX0Iifine0qFCObUwtVXE_JX7jOnY4yuI_EVZW39B0xjse13XWzuqLJy84HrEECt1y9UoNYd5EhU1U "ADRC 菜單")
-
-喜歡他們的品牌精神與價值
+![ADRC 喜歡他們的品牌精神與價值](https://lh3.googleusercontent.com/v88B0eFEaM5jh-oZsh5VYRh371tmp758uhiYLoS3jrOzWm6hBcaIWH2Y7YY1rYVFKKNOhoojfnX0Iifine0qFCObUwtVXE_JX7jOnY4yuI_EVZW39B0xjse13XWzuqLJy84HrEECt1y9UoNYd5EhU1U "ADRC 喜歡他們的品牌精神與價值")
 
 ### 飲品
 
