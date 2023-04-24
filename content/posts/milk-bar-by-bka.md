@@ -10,7 +10,7 @@ tags:
   - 不限時咖啡廳
   - 南京復興捷運站
 aliases:
-  - "0000"
+  - "0021"
 toc: true
 author: Zoey Chen
 ---
