@@ -1,5 +1,5 @@
 ---
-title: 時差Jetlag | 香港空少的築夢咖啡廳
+title: 時差 Jetlag | 香港空少的築夢咖啡廳
 description: 座落於中原公園對面，香港空少與台灣友人的築夢之地。大空間少座位，庸碌台北的喘息空間，SOHO族的意想之境。
 date: 2023-04-24T08:18:19.705Z
 slug: jetlag
