@@ -4,7 +4,7 @@ title = "今日工室"
 theme = "puppet"
 
 copyright = "Copyright &copy; 2023 今日工室"
-paginate = 5
+paginate = 10
 languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 
