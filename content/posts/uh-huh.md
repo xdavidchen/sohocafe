@@ -127,3 +127,30 @@ author: David Chen
 所以不管是 SOHO 族或是學生在這裡待一整天都沒問題，嗯哼咖啡食堂已經是我在台北最愛的無限時咖啡廳口袋名單之一！
 
 ## 嗯哼咖啡食堂 — 菜單
+
+<!-- two images in one line syntax -->
+
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="14.jpg" alt="菜單第一頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="15.jpg" alt="菜單第二頁" /></div>
+</div>
+
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="16.jpg" alt="菜單第三頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="17.jpg" alt="菜單第四頁" /></div>
+</div>
+
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="18.jpg" alt="菜單第五頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="19.jpg" alt="菜單第六頁" /></div>
+</div>
+
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="20.jpg" alt="菜單第七頁" /></div>
+    <div class="col-xs-6 col-md-6"><img src="21.jpg" alt="菜單第八頁" /></div>
+</div>
+
+
+<div class="row">
+    <div class="col-xs-6 col-md-6"><img src="22.jpg" alt="菜單第九頁" /></div>
+</div>
