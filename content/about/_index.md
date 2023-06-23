@@ -32,7 +32,24 @@ header_img = "/img/about-bg.jpg"
 
 **學生**會找到比在圖書館讀書更有效率的自習室。
 
-### 致合作廠商
-咖啡廳店主或異業業主，如有部落客行銷 / 品牌故事推廣 / 商品業配等需求，請洽今日工室信箱：sohocafe@fastmail.com。
+### 聯絡今日工室團隊
+
+<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/b3c31d0435ecf879d4518fd962fabf30?embedded=1"></div>
+
+<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+
+<!-- Get notified when the form is submitted, add your own code below: -->
+<script>
+const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+  console.log('Submitting form...')
+})
+
+formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+  console.log('Submitted form...')
+})
+</script>
 
 ⚠️ 謝絕無酬邀約 / 無酬互惠。
