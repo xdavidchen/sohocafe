@@ -25,8 +25,6 @@ header_img = "/img/about-bg.jpg"
 
 幫你找到志同道合的工作夥伴，爲你的專業找到無限可能。
 
-現在就加入全台灣最優質的 SOHO 族社群 → [招募 SOHO｜一同打造理想工作風格的你！](https://sohocafe.today/posts/call-for-soho-in-taiwan/)
-
 ---
 
 ### 致理想的工作
