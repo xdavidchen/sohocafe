@@ -133,10 +133,3 @@ toc = "true"
 推開具有質量與溫度的木門，感受到的是有著很強力道的特色，以華陀為首，建置櫃台後方的中藥行，整體營造出一種套了偏黃的暖色濾鏡，回到民國初年的氛圍。每個櫃子好似拉開會有人蔘、當歸、黃蓮、枸杞、紅棗等中藥材，下次到訪打算關注一下各個櫃子裡拉開會是甚麼！
 
 若想要有個空間，可以讓自己工作的自在舒服，可以享受在咖啡香、磨豆聲之中，又可以品到有特色又專業的咖啡/茶的話，德佈 Debut Café 絕對會需要收藏到你的口袋名單！
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

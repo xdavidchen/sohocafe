@@ -94,10 +94,3 @@ $80的老奶奶檸檬糖霜蛋糕，不確定蛋糕中有無老奶奶成分，�
 <img src="9.jpg" alt="工寓咖啡 菜單第一頁" lazyload />
 
 <img src="10.jpg" alt="工寓咖啡 菜單第二頁" lazyload />
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

@@ -112,10 +112,3 @@ Merci Vielle 有提供免費 Wifi，若有需要可以向店員詢問。美中�
 拜訪完 Merci Vielle，心中的口袋名單又多增添了一筆，既溫暖又安靜的氛圍與美味的餐點是我想再次造訪的理由，下次不知道要去哪裡遠距辦公的話，不妨造訪這裡看看，或許會有你意想不到的驚喜。
 
 「小隱隱於野，大隱隱於市」，閒逸的生活不一定要走山林入才能體會得到，更高層次隱逸生活是在都市繁華之中，讓我們在 Merci Vielle中度過找到一份屬於自己的寧靜吧！
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

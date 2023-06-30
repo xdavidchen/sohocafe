@@ -114,10 +114,3 @@ Congrats Cafe 社群：[FB 粉專](https://www.facebook.com/congratscafe.tw/?loc
 <img src="12.jpg" alt="Congrats Café 疫情間菜單第三頁" lazyload />
 
 <img src="13.jpg" alt="Congrats Café 疫情間菜單第四頁" lazyload />
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

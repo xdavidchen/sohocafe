@@ -153,10 +153,3 @@ toc = "true"
 咖啡豆供客人選購。
 
 店內提供的咖啡，看的到來源與簡介，牛奶可以加購成燕麥奶，也有酒類、鹹甜餐點提供選擇。營業時間從早上 11：00 開到 23：00，不限時，甚至提供閱讀室，讓需要專心辦公、念書的人，能夠在台北擁有一個安靜的秘密基地。也提供喜歡咖啡，並想要待一整天的人一個舒適的空間。
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

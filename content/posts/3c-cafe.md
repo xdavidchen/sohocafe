@@ -162,10 +162,3 @@ toc = "true"
 平日下午來，滿常看到工作者桌上擺滿工作文件，或是備考生埋首努力，3C Cafe 讓上班族在畢業後有除了辦公室與家以外的地方辦公，也讓學生多一個 CP 值高的選擇點。
 
 老闆很用心的經營與維持環境，從很多小細節都可以看出，例如：店裡店外的整潔與光線、每桌都有小酒精、隨餐附瓶水與足量的衛生紙等。另外店裡也擺放了一些書，播放的音樂也都是屬於輕音樂，讓被活潑色彩點綴的老宅更家有溫度，更像回到自己的老宅。
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >

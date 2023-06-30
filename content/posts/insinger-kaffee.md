@@ -141,10 +141,3 @@ INSINGERKAFFEE 硬性格咖啡 [官網 《烘焙商品銷售平台》](https://w
 <div class="row">
     <div class="col-xs-6 col-md-6"><img src="17.jpg" alt="菜單第五頁" /></div>
 </div>
-
----
-
-**招募 SOHO｜一同打造理想工作風格的你**\
-手機掃描下方 QR Code 或是[點擊此連結](https://line.me/ti/g2/p81-vzP_GOANlifYsaK9fzFkCfunayNiXmCiWQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)加入「**今日工室｜SOHO 族社群**」！
-
-<img src="line.png" width="30%" >
