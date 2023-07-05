@@ -9,6 +9,7 @@ tags:
   - 不限時咖啡廳
 aliases:
   - "0002"
+  - "uh-huh"
 toc: true
 author: David Chen
 ---
