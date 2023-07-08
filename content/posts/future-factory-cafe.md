@@ -28,18 +28,12 @@ author: Lorie Chen
 地址：台北市大同區民族西路31巷18號
 
 交通：
-
-\- 大眾運輸：
-
-捷運：圓山站1號出口，步行5分鐘後抵達
-
-公車：民族承德路口 (可搭618、756、811、936)、捷運圓山站 (可搭客運1356、208、紅33等)
-
-\- 自行開車/騎車：
-
-汽車：可停放於花博停車場
-
-機車：需在附近找尋停車格，方圓200米內約有60個左右
+- 大眾運輸：
+  - 捷運：圓山站1號出口，步行5分鐘後抵達
+  - 公車：民族承德路口 (可搭618、756、811、936)、捷運圓山站 (可搭客運1356、208、紅33等)
+- 自行開車/騎車：
+  - 汽車：可停放於花博停車場
+  - 機車：需在附近找尋停車格，方圓200米內約有60個左右
 
 營業時間：週一至週日12:00-20:00
 
@@ -117,14 +111,14 @@ author: Lorie Chen
 
 店內的氣氛一直很熱絡，就算因為是假日的下午時段，人潮眾多，還是不乏有進店裡詢問沒位依舊改外帶咖啡的顧客，可見啡創不僅是用空間在聯繫著客人，更是用專業的咖啡來守住眾人的味蕾!
 
-\-﻿--
+---
 
 以下為啡創工廠菜單
 
 ![啡創工廠菜單封面](https://lh5.googleusercontent.com/i4tdKu7uJL6_cBF4sZpvETi0KcxjPVl6KodzLAa7P3SkaIzZUwPYdG08SCle5gXMcf8KtkgYmAnPBImkfxGNx9N21gXJoQxysERhAQDYB1RTKtyGMuCfDNqYA3XaG1vuySrKS7AwTdF9MscsxUYsj8Y "啡創工廠菜單封面")
 
-![啡創工廠菜單第一頁](https://lh4.googleusercontent.com/xEHpLlN58JLKm6n5Ph7dXPikeY0ZRd80mqdT5WzMiORhd__VKDHZ5PpAPTc30eOsqMob1z-YjioPJAgdWVVS2Uz1wPY2oRR0hk1rEr-wpUpf7UUwGPIr8IT1uorzzqPq2DkAaaQq8EjbBe7daLLElSE "啡創工廠菜單第一頁")
+![啡創工廠菜單](https://lh4.googleusercontent.com/xEHpLlN58JLKm6n5Ph7dXPikeY0ZRd80mqdT5WzMiORhd__VKDHZ5PpAPTc30eOsqMob1z-YjioPJAgdWVVS2Uz1wPY2oRR0hk1rEr-wpUpf7UUwGPIr8IT1uorzzqPq2DkAaaQq8EjbBe7daLLElSE "啡創工廠菜單第一、二頁")
 
-![啡創工廠菜單第二頁](https://lh3.googleusercontent.com/YGnP7krj79qL2JPERLm-grbLGqZtqFkF9KxLMJmSTofi52wLJTo6yy3X4LAxXcsORns-BZp9tPnCJKNkZNT_GbLksynvQO9x0Wv5oWytKnZaOYqiqXrfsIU62DoHZSw6W5Fsf9FYnhOoIcZVzHx0SLM "啡創工廠菜單第二頁")
+![啡創工廠菜單](https://lh3.googleusercontent.com/YGnP7krj79qL2JPERLm-grbLGqZtqFkF9KxLMJmSTofi52wLJTo6yy3X4LAxXcsORns-BZp9tPnCJKNkZNT_GbLksynvQO9x0Wv5oWytKnZaOYqiqXrfsIU62DoHZSw6W5Fsf9FYnhOoIcZVzHx0SLM "啡創工廠菜單第三、四頁")
 
-![啡創工廠菜單第三頁](https://lh6.googleusercontent.com/erwwCFTW5Wknz4d2a6sORSCzCxlri0rCynbwcsVUmkmoiMp7PmSGVSbEmxczrN5lPQUEGS5fkrRP30NKe1BsKLy5tqSB64vYqQzn0wespjPSLNt6KJcMWj1Oy2mNk7RiosXSGtj9StYzlHORqJFTsPU "啡創工廠菜單第三頁")
+![啡創工廠菜單](https://lh6.googleusercontent.com/erwwCFTW5Wknz4d2a6sORSCzCxlri0rCynbwcsVUmkmoiMp7PmSGVSbEmxczrN5lPQUEGS5fkrRP30NKe1BsKLy5tqSB64vYqQzn0wespjPSLNt6KJcMWj1Oy2mNk7RiosXSGtj9StYzlHORqJFTsPU "啡創工廠菜單第四、五頁")
