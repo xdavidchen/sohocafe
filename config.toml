@@ -47,7 +47,7 @@ url = "/"
 weight = -100
 [[menu.main]]
 identifier = "archive"
-name = "所有文章"
+name = "找咖啡廳"
 url = "/archive/"
 weight = 10
 #[[menu.main]]
