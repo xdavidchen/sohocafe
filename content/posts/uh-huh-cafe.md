@@ -14,8 +14,6 @@ toc: true
 author: David Chen
 ---
 
-<p style="color:red;">嗯哼咖啡食堂店址搬遷，自2023年8月中旬起暫停營業中</p>
-
 ![嗯哼咖啡食堂店門口](https://lh4.googleusercontent.com/AGTey7OrcXknak6W-DbuD-sNEudcfCeiPWFQnhpHmIk1qvLT2Dsqb3IqrAq_KUZeYCcw8rpW-5g7k4cUKupSl2AD9Uzqxr0MnbhRMLH8l25hlQLzDM6qmylxeHuNTX1qWUWHJNUHbdiJkOUcZfLC4VI "嗯哼咖啡食堂店門口")
 
 在繁榮的台北市區中，要怎麼找到一個能夠獨自安靜工作、又舒服的小角落？
@@ -27,8 +25,6 @@ author: David Chen
 ## 嗯哼咖啡食堂 — 基本資訊
 
 ![嗯哼咖啡食堂門口佈置](https://lh6.googleusercontent.com/WlOvgpdtYLTzum5p1potFpRjYPcZ0zhM-SnZ0Hpbrf4o55iQHjlt46blhUOalAcuK6qVaC2aSzVZqTpjQJvwW2dj_sOR4uYq8LlesLmskZ1WTkjAdyBv9lXSQa7a51iXtcVdp1Syfoj_w1u__brf8-0 "嗯哼咖啡食堂門口佈置")
-
-<p style="color:red;">嗯哼咖啡食堂店址搬遷，自2023年8月中旬起暫停營業中</p>
 
 - 地址：106台北市大安區羅斯福路三段269巷6-1號一樓
 - 交通：捷運台電大樓站二號出口，步行三分鐘。位在小巷子裡面，附近沒有汽車停車位，機車位子也不多，建議步行前往。
