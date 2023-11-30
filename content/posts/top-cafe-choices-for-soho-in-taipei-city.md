@@ -19,7 +19,7 @@ slug = "top-cafe-choices-for-soho-in-taipei-city"
 
 許多 SOHO 族在家工作一段時間後很容易感到乏味導致工作效率降低，因此他們會出外尋找各種不一樣的工作環境，咖啡廳便是大家的首選，不過要找到適合自己的咖啡廳並不是一件容易的事，這篇文章將介紹台北市 10 間擁有適合 SOHO 族工作空間的咖啡廳，針對每一間咖啡廳不同的風格、優點、環境，希望能夠幫助 SOHO 族建立理想的台北市咖啡廳口袋名單！
 
-<a href="https://exittaiwan.com" target="_blank">
+<a href="https://exittaiwan.com/?utm_source=sohocafe&utm_medium=banner&utm_campaign=top-cafe-choices" target="_blank">
     <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
 </a>
 
@@ -82,7 +82,7 @@ SOHO 族最需要的工作環境莫過於一個能夠舒適久坐的空間！嗯
 
 **如果想要了解更多資訊，可以參考今日工室的[『嗯哼咖啡食堂推薦文章』](https://sohocafe.today/posts/uh-huh-cafe/)。**
 
-<a href="https://exittaiwan.com" target="_blank">
+<a href="https://exittaiwan.com/?utm_source=sohocafe&utm_medium=banner&utm_campaign=top-cafe-choices" target="_blank">
     <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
 </a>
 
@@ -226,6 +226,6 @@ Out of office cafe，正如其名是一間專門為遠端工作者精心設計�
 
 今日工室團隊致力於幫助 SOHO 族找到每個人自己適合的工作環境，今後也會持續地更新有用的資訊給各位 SOHO 族的朋友們，幫助你們在工作上能夠更輕鬆自在！
 
-<a href="https://exittaiwan.com" target="_blank">
+<a href="https://exittaiwan.com/?utm_source=sohocafe&utm_medium=banner&utm_campaign=top-cafe-choices" target="_blank">
     <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
 </a>
