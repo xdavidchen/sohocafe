@@ -19,6 +19,10 @@ slug = "top-cafe-choices-for-soho-in-taipei-city"
 
 許多 SOHO 族在家工作一段時間後很容易感到乏味導致工作效率降低，因此他們會出外尋找各種不一樣的工作環境，咖啡廳便是大家的首選，不過要找到適合自己的咖啡廳並不是一件容易的事，這篇文章將介紹台北市 10 間擁有適合 SOHO 族工作空間的咖啡廳，針對每一間咖啡廳不同的風格、優點、環境，希望能夠幫助 SOHO 族建立理想的台北市咖啡廳口袋名單！
 
+<a href="https://exittaiwan.com" target="_blank">
+    <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
+</a>
+
 ## 10 間適合 SOHO 族的台北市咖啡廳推薦
 
 ### 1. Sugarman Cafe | 師大巷弄中的深夜咖啡廳
@@ -65,18 +69,22 @@ slug = "top-cafe-choices-for-soho-in-taipei-city"
 
 SOHO 族最需要的工作環境莫過於一個能夠舒適久坐的空間！嗯哼咖啡食堂將這一點體現的淋漓盡致，做到了對自由工作的全方位的照顧。工作之餘總會有休息、用餐時間，大多數的咖啡廳都有提供甜點，少許的咖啡廳會提供商業午餐，嗯哼咖啡食堂不一樣的地方就是他的餐點，從漢堡薯條到輕食和炸物，走的是美式風格，讓顧客可以吃得飽飽，補充精力，繼續努力工作！
 
-嗯哼咖啡廳的交通很方便，搭捷運到台電大樓站二號出口，步行三分鐘內就到啦！雖然在小巷子裡面，但非常的好找，建議各位 SOHO 族同伴直接步行前往，附近機汽車停車位較少。
+要到嗯哼咖啡廳的交通方式，可以搭捷運到台北 101 世貿捷運站二號或三號出口，步行十分鐘左右就到囉。
 
 | **嗯哼咖啡食堂 基本資訊** |  |
 | - | - |
-| 地址 | 台北市大安區羅斯福路三段 269 巷 6-1 號一樓 |
-| 營業時間 | 不定時公休，請參考粉專 |
-| 連絡電話 | (02) 2367-0663 |
+| 地址 | 台北市信義區吳興街 284 巷 1 號 |
+| 營業時間 | 週一 ～ 週五 09:00 ~ 20:00，週六日 11:00 ~ 20:00。 |
+| 連絡電話 | 886 975 926 152 |
 | 社群 | [Facebook 粉絲團](https://www.facebook.com/life031673) |
 | 支付方式 | 現金、信用卡 |
 | 最低消費 | 一杯飲品 |
 
 **如果想要了解更多資訊，可以參考今日工室的[『嗯哼咖啡食堂推薦文章』](https://sohocafe.today/posts/uh-huh-cafe/)。**
+
+<a href="https://exittaiwan.com" target="_blank">
+    <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
+</a>
 
 ### 4. 抹 More cafe | 深入古亭的不限時深夜咖啡廳
 
@@ -217,3 +225,7 @@ Out of office cafe，正如其名是一間專門為遠端工作者精心設計�
 在這 10 個台北市咖啡廳推薦中，有些咖啡廳提供美味的咖啡和舒適的座位，而其他則提供快速的網路和充足的工作空間，完全能夠滿足 SOHO 族對多樣工作環境的各種需求。
 
 今日工室團隊致力於幫助 SOHO 族找到每個人自己適合的工作環境，今後也會持續地更新有用的資訊給各位 SOHO 族的朋友們，幫助你們在工作上能夠更輕鬆自在！
+
+<a href="https://exittaiwan.com" target="_blank">
+    <img lazyload src="banner-exittaiwan.webp" style="border-radius:6px;"/>
+</a>
